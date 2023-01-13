@@ -1,4 +1,4 @@
-## A small but functional npm package
+## component Modal npm package
 
 ### Install
 
@@ -11,13 +11,13 @@ In a React app, use the Button or Badge components:
 
 #### Button props
 
-| Name     | Description |
+| Name     | Description |          |         |
 | -------- | ----------- | -------- | ------- |
-| title    | string      |
-| text     | string      |
-| data-id  | string      |
+| title    | string      |          |         |
+| text     | string      |          |         |
+| data-id  | string      |          |         |
 | type     | 'button'    | 'submit' | 'reset' |
-| name     | string      |
-| value    | string      |
-| disabled | Boolean     |
-| onClick  | function    |
+| name     | string      |          |         |
+| value    | string      |          |         |
+| disabled | Boolean     |          |         |
+| onClick  | function    |          |         |

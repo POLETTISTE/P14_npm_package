@@ -6,7 +6,7 @@ Install using `npm install @polettiste/modalcomponent`
 
 ### Usage
 
-In a React app, use the Button or Badge components:  
+In a React app, use the Button component:  
 `import { Modal } from '@polettiste/modalcomponent'
 
 #### Button props

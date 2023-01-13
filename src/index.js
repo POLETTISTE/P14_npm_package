@@ -7,7 +7,6 @@ const App = () => (
     title="CONFIRMATION"
     text="Your employee has well been recorded !"
     btnText="CLOSE"
-    // onClickFunction={}
   />
 );
 

@@ -1,12 +1,14 @@
-import React from 'react';
+import React from "react";
 import { render } from "react-dom";
-import { TextInput } from "./lib";
+import { Modal } from "./lib";
 
 const App = () => (
-  <div style={{ width: 640, margin: "15px auto" }}>
-    <h1>Hello React</h1>
-    <TextInput label="Email Address" placeholder="name@example.com" />
-  </div>
+  <Modal
+    title="CONFIRMATION"
+    text="Your employee has well been recorded !"
+    btnText="CLOSE"
+    // onClickFunction={}
+  />
 );
 
 render(<App />, document.getElementById("root"));

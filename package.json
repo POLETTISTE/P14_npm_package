@@ -1,5 +1,5 @@
 {
-  "name": "@polettiste/component-modal",
+  "name": "@polettiste/componentmodal",
   "version": "0.2.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "URL_OF_YOUR_REPOSITORY"
+    "url": "https://github.com/POLETTISTE/P14_npm_package"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Modal.css";
 
-export const Modal = (props) => (
+const Modal = (props) => (
   <div className="modal-container">
     <div className="modal-window">
       <h2>{props.title}</h2>
@@ -19,3 +19,4 @@ export const Modal = (props) => (
     </div>
   </div>
 );
+export default Modal;

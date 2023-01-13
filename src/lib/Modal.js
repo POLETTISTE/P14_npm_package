@@ -13,7 +13,7 @@ const Modal = (props) => (
         name={props.name}
         value={props.value}
         disabled={props.disabled}
-        onclick={props.handleClick}>
+        onclick={props.onclick}>
         {props.btnText}
       </button>
     </div>

@@ -1,5 +1,5 @@
 {
-  "name": "modalcomponent",
+  "name": "@polettiste/modalcomponent",
   "description": "modal component",
   "version": "0.2.0",
   "main": "dist/index.js",

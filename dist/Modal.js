@@ -18,7 +18,7 @@ const Modal = props => /*#__PURE__*/_react.default.createElement("div", {
   name: props.name,
   value: props.value,
   disabled: props.disabled,
-  onclick: props.onclick
+  onClick: props.onClick
 }, props.btnText)));
 var _default = Modal;
 exports.default = _default;

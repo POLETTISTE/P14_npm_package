@@ -1,7 +1,7 @@
 import React from "react";
 import "./Modal.css";
 
-const Modal = ({ title, text, btnText, onClickFunction }) => (
+export const Modal = ({ title, text, btnText, onClickFunction }) => (
   <div className="modal-container">
     <div className="modal-window">
       <h2>{title}</h2>
@@ -12,5 +12,3 @@ const Modal = ({ title, text, btnText, onClickFunction }) => (
     </div>
   </div>
 );
-
-export default Modal;

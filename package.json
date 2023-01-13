@@ -1,5 +1,6 @@
 {
-  "name": "@polettiste/componentmodal",
+  "name": "modalcomponent",
+  "description": "modal component",
   "version": "0.2.0",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -16,7 +17,7 @@
     "build-examples": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,__snapshots__"
+    "build": "rm -rf dist && NODE_ENV=production babel src/lib --out-dir dist --copy-files"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",

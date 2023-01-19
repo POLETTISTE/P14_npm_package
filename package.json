@@ -1,6 +1,14 @@
 {
   "name": "@polettiste/modalcomponent",
   "description": "modal component",
+  "author": "Poletti Stéphane",
+  "keywords": [
+    "react",
+    "components",
+    "ui",
+    "modal",
+    "confirm"
+  ],
   "private": false,
   "version": "1.0.2",
   "main": "dist/index.js",
